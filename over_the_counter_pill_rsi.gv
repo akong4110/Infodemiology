@@ -1,0 +1,95 @@
+digraph {
+	{
+		rank=same
+		A [label="over the counter pill"]
+		A [color=red]
+	}
+	{
+		rank=same
+		B [label="yeast infection pill: 100"]
+		C [label="yeast infection: 96"]
+		D [label="over the counter yeast infection pill: 89"]
+		E [label="sleeping pill over the counter: 66"]
+		F [label="viagra pill: 63"]
+		G [label="water pill over the counter: 59"]
+		H [label="viagra: 56"]
+		I [label="best over the counter diet pill: 43"]
+		J [label="abortion pill: 30"]
+		J [color=red]
+		K [label="best over the counter weight loss pill: 30"]
+		L [label="best over the counter sleeping pill: 13"]
+		M [label="pill identifier: 10"]
+		N [label="strongest over the counter pain pill: 3"]
+	}
+	{
+		rank=same
+		O [label="the abortion pill: 100"]
+		P [label="abortion cost: 52"]
+		Q [label="abortion pill cost: 52"]
+		R [label="pill for abortion: 35"]
+		S [label="planned parenthood: 30"]
+		T [label="planned parenthood abortion: 29"]
+		U [label="planned parenthood abortion pill: 29"]
+		V [label="abortion near me: 23"]
+		W [label="how much is abortion pill: 22"]
+		X [label="plan b pill: 21"]
+		Y [label="abortion clinic: 21"]
+		Z [label="plan b: 21"]
+		a [label="pregnancy test: 18"]
+		b [label="abortion pills: 17"]
+		c [label="abortion pill side effects: 14"]
+		d [label="misoprostol: 12"]
+		e [label="how much is an abortion pill: 12"]
+		f [label="how much is an abortion: 11"]
+		g [label="abortion pill online: 11"]
+		g [color=red]
+		h [label="how much is the abortion pill: 11"]
+		i [label="what is the abortion pill: 11"]
+		j [label="bleeding after abortion pill: 10"]
+		k [label="abortion pill symptoms: 9"]
+		l [label="mifepristone: 9"]
+	}
+	{
+		rank=same
+		m [label="buy abortion pill kit online: 100"]
+		m [color=blue]
+	}
+	A -> B
+	A -> C
+	A -> D
+	A -> E
+	A -> F
+	A -> G
+	A -> H
+	A -> I
+	A -> J
+	A -> K
+	A -> L
+	A -> M
+	A -> N
+	J -> O
+	J -> P
+	J -> Q
+	J -> R
+	J -> S
+	J -> T
+	J -> U
+	J -> V
+	J -> W
+	J -> X
+	J -> Y
+	J -> Z
+	J -> a
+	J -> b
+	J -> c
+	J -> d
+	J -> e
+	J -> f
+	J -> g
+	J -> h
+	J -> i
+	J -> j
+	J -> k
+	J -> l
+	g -> m
+}
