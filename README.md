@@ -11,8 +11,12 @@ Over The Counter Pill presentation demonstrates a high level overview of the upd
 ## 2021 Update
 
 RSI_RSV_ACQUISITION-2021_UPDATE:  
+
 The process to get 30 iterations for the 'over the counter pill' search took: 3min. 2sec. 95 ms.
+
 The process to get 1 iteration for the 'over the counter pill' search took: 3min. 27sec. 34ms.
+
 If we were to have done 30 iterations using the old method it would have taken: 1.725 hours.
+
 With this procedure I have improved our search algorithm, it now takes 2.93% of the original time it would have to conduct a 30 iteration sample of a search for a given query.
 
