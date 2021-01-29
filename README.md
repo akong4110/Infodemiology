@@ -18,5 +18,5 @@ The process to get 1 iteration for the 'over the counter pill' search using RSI_
 
 If we were to have done 30 iterations using the old method it would have taken: 1.725 hours.
 
-With this procedure I have improved our search algorithm, it now takes 2.93% of the original time it would have to conduct a 30 iteration sample of a search for a given query.
+With this update I have improved our search procedure, it now takes 2.93% of the original time it would have to conduct a 30 iteration sample of a search for a given query.
 
